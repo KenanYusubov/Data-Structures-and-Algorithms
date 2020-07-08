@@ -15,6 +15,9 @@ Example codes for Data Structures and Algorithms Lessons
    - [Tree Recursion](Recursion/4.8.cpp)
    - [Indirect Recursion](Recursion/4.9.cpp)
    - [Nested Recursion](Recursion/4.10.cpp)
+   - [Sum of firt n natural number](Recursion/4.11.cpp)
+   - [Factorial Using Recursion](Recursion/4.12.cpp)
+   - [Power Using Recursion](Recursion/4.13.cpp)
    
 **2. Array Representations**
    
