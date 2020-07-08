@@ -12,3 +12,7 @@ Example codes for Data Structures and Algorithms Lessons
 **1. Recursion**
    - [How Recursion Works (Tracing)](Recursion/4.1.cpp)
    - [Static and Global Variables in Recursion](Recursion/4.5.cpp)
+   
+**2. Array Representations**
+   - [How Recursion Works (Tracing)](Recursion/4.1.cpp)
+   - [Static and Global Variables in Recursion](Recursion/4.5.cpp)   
