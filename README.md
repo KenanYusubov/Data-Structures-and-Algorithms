@@ -18,6 +18,10 @@ Example codes for Data Structures and Algorithms Lessons
    - [Sum of firt n natural number](Recursion/4.11.cpp)
    - [Factorial Using Recursion](Recursion/4.12.cpp)
    - [Power Using Recursion](Recursion/4.13.cpp)
+   - [Taylor Series](Recursion/4.14.cpp)
+   - [Taylor Series with Horner's rule](Recursion/4.15.cpp)
+   - [Fibonacci Series (Memoization)](Recursion/4.16.cpp)
+   - [nCr Combination formula (selection formula)](Recursion/4.17.cpp)
    
 **2. Array Representations**
    
